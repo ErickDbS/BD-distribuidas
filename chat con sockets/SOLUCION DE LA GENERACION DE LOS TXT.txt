@@ -1,0 +1,3 @@
+Los txt no se generaban por que el programa no encontraba la carpeta que le estaba espesificando
+para que se generen los txt con el historial se necesita crear la carpeta chat_history en la raiz del proyecto en este caso
+en la raiz del servidor para que se guarden los txt
